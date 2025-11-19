@@ -85,20 +85,20 @@ layout: two-cols-header
 
 ::left::
 
-<img src="./images/turtle.png" width=150/>
+<img src="./images/turtle.jpg" width=150/>
 Visual Computing (turtle, gpanel, pygame)
 
-<img src="./images/maqueelplusv3.png" width=150/>
+<img src="./images/maqueelplusv3.jpg" width=150/>
 Robotics (WebUSB, simulation)
 
 [python-online.ch/](https://python-online.ch/)
 
 ::right::
 
-<img src="./images/databases.png" width=300/>
+<img src="./images/databases.jpg" width=300/>
 Databases (sqlite3, database1)
 
-<img src="./images/debugger.png" width=200/>
+<img src="./images/debugger.jpg" width=200/>
 Debugger
 
 ---
@@ -317,10 +317,10 @@ layout: two-cols-header
 # Maqueen Plus V3 Lidar
 
 ::left::
-<img src="./images/lidar1.png" width=300/>
+<img src="./images/lidar1.jpg" width=300/>
 
 ::right::
-<img src="./images/lidar2.png" width=300/>
+<img src="./images/lidar2.jpg" width=300/>
 
 ---
 layout: wtp-2-cols
@@ -410,5 +410,5 @@ code: |
 - Multifile projects
 - Git / OneDrive integration
 - More libraries
-- Feedback
+- Reach out to me!
 - Thank you
